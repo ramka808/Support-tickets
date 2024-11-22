@@ -16,7 +16,7 @@ Edit env for your database
 ```
 
 ```bash
-     php artisan migrate
+     php artisan db:seed
 ```
 
 ```bash
